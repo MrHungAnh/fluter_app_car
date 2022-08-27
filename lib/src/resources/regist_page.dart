@@ -30,7 +30,7 @@ class _RegisterPageState extends State<RegisterPage> {
               Padding(
                 padding: const EdgeInsets.fromLTRB(0, 40, 0, 6),
                 child: Text(
-                  'Welcome Hung Anh',
+                  'Welcome Anh Hùng',
                   style: TextStyle(fontSize: 22, color: Color(0xff333333)),
                 ),
               ),
