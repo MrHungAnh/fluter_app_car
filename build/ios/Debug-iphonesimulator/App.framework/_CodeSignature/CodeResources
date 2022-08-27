@@ -28,17 +28,9 @@
 		<data>
 		E/OKtf3vzg2lfAngTe6qXE3QTbo=
 		</data>
-		<key>flutter_assets/assets/images/ic_car_red.png</key>
-		<data>
-		q9sz501MbG363ais5+wCNYJZ7z0=
-		</data>
 		<key>flutter_assets/assets/images/ic_email.png</key>
 		<data>
 		Q4dIw97sL0EqhMF8LAb5BlPztGE=
-		</data>
-		<key>flutter_assets/assets/images/ic_g63.png</key>
-		<data>
-		jLQuj60PGuS+DZs2K4wG16UCWUc=
 		</data>
 		<key>flutter_assets/assets/images/ic_name.png</key>
 		<data>
@@ -62,7 +54,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		Im29i0RYvVAYfiZWNfaGHSCjtUQ=
+		0IuJdTll7mJ497k4VO/yHvsQe/I=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -130,17 +122,6 @@
 			qiQ27r60LjRPnX1Vj2dzQoeqSzAaj8nEnl+qdw8XQss=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/images/ic_car_red.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q9sz501MbG363ais5+wCNYJZ7z0=
-			</data>
-			<key>hash2</key>
-			<data>
-			V4G2/Er8njOmTiOBRo/aYWUuHBir7lD/uJNR+7H/0JE=
-			</data>
-		</dict>
 		<key>flutter_assets/assets/images/ic_email.png</key>
 		<dict>
 			<key>hash</key>
@@ -150,17 +131,6 @@
 			<key>hash2</key>
 			<data>
 			VxU103HxzUpRobGQA3on+Xbvgsv813QpvwjD7KUTL6w=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/images/ic_g63.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jLQuj60PGuS+DZs2K4wG16UCWUc=
-			</data>
-			<key>hash2</key>
-			<data>
-			lakWwvMPzGu2VDhFgRFtAXMKVYcoGeyS6JEvxqGj5oM=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/ic_name.png</key>
@@ -222,11 +192,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Im29i0RYvVAYfiZWNfaGHSCjtUQ=
+			0IuJdTll7mJ497k4VO/yHvsQe/I=
 			</data>
 			<key>hash2</key>
 			<data>
-			H21kmkWnuCo0ggVEe0GVozRk576zTjoUVa9C9YZWPOk=
+			aDt2TEc9EOVQvf004yksGo5BiSOW1JWcBUnZ7EIex1k=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
